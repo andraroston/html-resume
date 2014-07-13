@@ -1,0 +1,64 @@
+*{
+	font-family: Arial;
+}
+a{
+	color: #98fb98;
+}
+header{
+	margin: auto;
+	background-color: #8FBC8F;
+	width: 200px;
+	height: auto;
+	text-align: center;
+}
+#goal{
+	margin: 10px auto 10px auto;
+	border: 2px solid #55AE3A;
+	width:75%;
+	height: auto;
+	text-align: center;
+}
+#education{
+	margin: 10px 200px 10px 200px;
+	background-color: #308014;
+	height: auto;
+	padding: 10px;
+	text-align: center;
+	height: 250px;
+}
+
+#costars{
+	float: right;
+	width: 48%;
+	background-color: #308B37;
+	margin: 5px;
+	border-radius: 10px;
+	height: 525px;
+	padding: 5px;
+	text-align: center;
+}
+#experience{
+	float: left;
+	width: 48%;
+	background-color: #699864;
+	margin: 5px;
+	border-radius: 10px;
+	height: 650px;
+	padding: 5px;
+}
+#interests{
+	float: right;
+	width: 48%;
+	height:; 200px;
+	background-color: #31B940;
+	margin: 5px;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: center;
+	clear: right;
+}
+#interests p{
+	display: inline-block;
+	margin: 10px;
+}
+
