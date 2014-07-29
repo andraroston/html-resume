@@ -62,3 +62,6 @@ header{
 	margin: 10px;
 }
 
+td {
+	border-radius: 20px;
+}
